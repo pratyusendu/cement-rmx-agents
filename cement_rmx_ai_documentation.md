@@ -1988,6 +1988,6 @@ Based on industry benchmarks for AI-assisted plant operations:
 
 *Version 1.0 · February 2026 · Internal Use Only*
 
-*32 Agents · 8 Phases · Powered by Groq LLaMA 3.1 70B · Deployed on Vercel Edge*
-
+*32 Agents · 8 Phases  · Deployed on Vercel Edge*
+contact : pratdala@gmail.com for an implementation and production deployment
 </div>
