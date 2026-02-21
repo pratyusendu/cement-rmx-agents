@@ -1,6 +1,6 @@
 # 🏭 Cement & RMX Supply Chain — AI Multi-Agent System
 
-> **32 specialized AI agents** orchestrating end-to-end supply chain automation for Cement Manufacturing and Ready-Mix Concrete (RMX) industries. Deployable on **Vercel** in minutes. Powered by **Groq LLaMA 3.1 70B** (free tier available).
+> **32 specialized AI agents** orchestrating end-to-end supply chain automation for Cement Manufacturing and Ready-Mix Concrete (RMX) industries. Deployable on **Vercel** in minutes.
 
 ---
 
@@ -270,9 +270,10 @@ The API routes accept `plantData` in POST body — pass real sensor data from yo
 
 ---
 
-## 📄 License
+## 📄 Contact
 
-MIT — Free for commercial and non-commercial use.
+contact pratdala@gmail.com for an implemenation and production deployment.
+
 
 ---
 
